@@ -12,7 +12,7 @@
       "description": "The #1 Premium and Free Script Hub for Matcha. Join Discord.gg/HCRTUjpmd4 for suggestions and help.\nSupported Games:\n- Counter Blox\n- Stands Awakening\n- BloxStrike\n- Murder Mystery 2 (EARLY ACCESS - BETA)",
       "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/JohFgs/Celeste/refs/heads/main/Loader.lua'))()",
       "preview": "https://files.catbox.moe/uhlcbj.jpg",
- "author": "joh.fgs"
+      "author": "joh.fgs"
     },
     {
       "name": "Skid Hub",
@@ -36,11 +36,18 @@
       "author": "192.0.0.2"
     },
     {
-      "name": "shitsaken",
+      "name": "Shitsaken",
       "description": "The best script for Forsaken.",
       "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/jurylmao/otherscripts/refs/heads/main/shitsaken.lua'))()",
       "preview": "https://cdn.discordapp.com/attachments/1039810956861132830/1452697316346826835/image.png?ex=694ac14e&is=69496fce&hm=b971ff5b64331a78e4864b8853cfc3545ba5a956081f89116bb9298d81d25a7a&",
       "author": "jurylol"
+    },
+    {
+      "name": "Blade Ball Auto-Parry",
+      "description": "feature's:\nMain things:\nAuto Parry\nAuto detect curves\nauto clash (WIP)\ndrawing:\nParry Circle Fov\nBall position drawing",
+      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/IsItTheRealMiyu/blade-ball-shi/refs/heads/main/parry-obfuscated.lua'))()",
+      "preview": "",
+      "author": "kixielux"
     }
   ]
 }
