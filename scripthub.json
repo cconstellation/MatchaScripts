@@ -39,7 +39,7 @@
       "name": "Arcane Hub",
       "description": "The most popular script hub for latte!\n\nSupported games: Boom Hood\nBuild A Boat For Treasure\nArsenal\nCounterblox\nPrison Life\nDefuse Division\nThe Strongest Punch Simulator\nEvade\nMM2",
       "script_content": "loadstring(game:HttpGet('https://arcanecheats.onrender.com/api/scripts/Loader'))()",
-      "preview": "https://cdn.discordapp.com/icons/1432408149910093896/b16127e637bf4453d0732af8cd3e9ee2.webp?size=1024",
+      "preview": "https://i.imgur.com/fpKAAcn.png",
       "author": "192.0.0.2"
     },
     {
