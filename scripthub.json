@@ -76,6 +76,13 @@
       "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Ozyx-x/Funky-Friday-Autoplay/refs/heads/main/funkyfridayautoplay.lua'))()",
       "preview": "https://media.discordapp.net/attachments/1442479798097154148/1446898700684103721/image.png?ex=694ac0ec&is=69496f6c&hm=95a4f1c851c8bd433c548b3dc134df62dbc5774f8175711969eb3d22f2dcf0ef&=&format=webp&quality=lossless&width=801&height=398",
       "author": "orb1i"
-    }
+    },
+    {
+      "name": "Shitsaken Cubed (Forsaken)",
+      "description": "Like shitsaken but with different UI and some different features",
+      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/MildilyAcidic/ranom-project/refs/heads/main/a.lua'))()",
+      "preview": "https://i.imgur.com/RgSBRIC.png",
+      "author": "jurylol & mildilyacidic"
+    },
   ]
 }
