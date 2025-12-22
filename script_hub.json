@@ -16,7 +16,7 @@
     },
     {
       "name": "Skid Hub",
-      "description": "The Most Skidded Hub for Mаtcha",
+      "description": "The Most Skidded Hub for Mаtcha\nSupported Games:\n- Ink Game\n- Deadly Delivery(EARLY ACCESS - PAID)",
       "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/RobloxTurboX/SkidHUB/refs/heads/main/SkidHubLoader.lua'))()",
       "preview": "https://media.discordapp.net/attachments/1433477474561429657/1436390149914361886/image.png?ex=694a18d2&is=6948c752&hm=15011372d1e94413ecbd3b28eac66b6ec189a35ad8b4b0e02e867391fcfbb289&=&format=webp&quality=lossless&width=1291&height=904&",
       "author": "The Bay Harbour Skidder - @ice_of_death"
