@@ -15,11 +15,11 @@
  "author": "joh.fgs",
     },
     {
-      "name": "Celeste Hub",
-      "description": "The #1 Premium and Free Script Hub for Match4. Join Discord.gg/HCRTUjpmd4 for suggestions and help",
-      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/JohFgs/Celeste/refs/heads/main/Loader.lua'))()",
-      "preview": "https://files.catbox.moe/uhlcbj.jpg",
- "author": "joh.fgs",
+      "name": "Skid Hub",
+      "description": "The Most Skidded Hub for Mаtcha",
+      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/RobloxTurboX/SkidHUB/refs/heads/main/SkidHubLoader.lua'))()",
+      "preview": "https://media.discordapp.net/attachments/1433477474561429657/1436390149914361886/image.png?ex=694a18d2&is=6948c752&hm=15011372d1e94413ecbd3b28eac66b6ec189a35ad8b4b0e02e867391fcfbb289&=&format=webp&quality=lossless&width=1291&height=904&",
+      "author": "The Bay Harbour Skidder - @ice_of_death"
     }
   ]
 }
