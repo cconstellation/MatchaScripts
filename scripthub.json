@@ -1,10 +1,17 @@
 {
   "scripts": [
     {
+      "name": "Script Dumper",
+      "description": "Dumps all local LuaContainers and packs them into a rbxlx file",
+      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ludiocel/PublicScripts/refs/heads/master/MatchaScriptDumper.lua'))()",
+      "preview": "https://media.discordapp.net/attachments/1428403275295752253/1452737388127195186/A5AF5387-1790-48D2-9150-4740AE0F5D81.png?ex=694ae69f&is=6949951f&hm=8b8021c061e81e745b23510661eb0f5006eba17afb3bfa5c9ebc3e9c5e88b39c&=&format=webp&quality=lossless&width=2536&height=950",
+      "author": "Vault & VainVerrater"
+    },
+    {
       "name": "GH Hub",
       "description": "The Most Powerfull Script Hub for matcha. join discord.gg/5eQhEPZ4yJ for suggestions or help\nSupported Games:\nBlade Ball\nCounter Blox\nDifuse Division\nArsenal\nForsaken \nDead Line\nFlee The Facility\nDead Rails\nNotoriety\nMurder Mystery 2\nZombie Attack\nDoors\nThe Final Stand 2\n99 Nights In The Forest\nCombat Wariors\nReflex aim trainer\nAim H4X",
       "script_content": "loadstring(game:HttpGet('https://pastebin.com/raw/9SgxAMpT'))()",
-      "preview": "https://cdn.discordapp.com/attachments/1350833466962350121/1452683723668590754/3738EB29-43C9-4D19-999E-FE4CB1C56082.png?ex=694ab4a5&is=69496325&hm=146747d7c46a7e3ccdb3aaaa296f52d29562d6030c3cafd8d2e1de125a9fc779&",
+      "preview": "https://cdn.discordapp.com/attachments/1350833466962350121/1452699667694485585/0915c8fb-a47a-46a0-ab3d-b538f4381c1a.png?ex=694ac37e&is=694971fe&hm=d8ec1540f26f51adb66a0cd87bed9fbe07bb81ec0c80d6e6766306280a149496&",
       "author": "adur1011"
     },
     {
@@ -36,18 +43,39 @@
       "author": "192.0.0.2"
     },
     {
-      "name": "Shitsaken",
+      "name": "Forsaken - Shitsaken",
       "description": "The best script for Forsaken.",
       "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/jurylmao/otherscripts/refs/heads/main/shitsaken.lua'))()",
       "preview": "https://cdn.discordapp.com/attachments/1039810956861132830/1452697316346826835/image.png?ex=694ac14e&is=69496fce&hm=b971ff5b64331a78e4864b8853cfc3545ba5a956081f89116bb9298d81d25a7a&",
       "author": "jurylol"
     },
     {
-      "name": "Blade Ball Auto-Parry",
+      "name": "Movement Script - Coutner Blox",
+      "description": "features: almost everything u would expect in a movement cheeet\nNEEDS UNSAFE LUA PROTECTION ON\nEXECUTE FIRST WHEN UR ALIVE ORHERWISE no work\nWILL NOT WORK ON DEFUSE DIVISION\nMENU KEYBIND IS  RIGHT SHIFT",
+      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/d0inks/moon.lua/refs/heads/main/main.lua'))()",
+      "preview": "https://media.discordapp.net/attachments/1444143690087141506/1444143690716152002/Screenshot_2025-11-28_191351.png?ex=694a9e5e&is=69494cde&hm=e19f8ec12a16419e78b54ca4eb7973519048ae4f499f7e843e9f01c4fa35cec3&",
+      "author": "doinkx"
+    },
+    {
+      "name": "Matcha Miner - The Forge",
+      "description": "+ speed cap (helps esp w forge's new anti tp)\n+ mob and player avoidance\nuse noclip\ncreds to nulares\nbind end key",
+      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/dunnerulz/forgee/refs/heads/main/matcha-miner.lua'))()",
+      "preview": "https://cdn.discordapp.com/attachments/1295354339199815692/1452739084471767052/image.png?ex=694ae834&is=694996b4&hm=db6771ecc77a1035bcac78994bfea8bd00ab4bebb4e7972b5681fa2a6f4219d8&",
+      "author": "d.unne"
+    },
+    {
+      "name": "Auto-Parry - Blade Ball",
       "description": "feature's:\nMain things:\nAuto Parry\nAuto detect curves\nauto clash (WIP)\ndrawing:\nParry Circle Fov\nBall position drawing",
       "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/IsItTheRealMiyu/blade-ball-shi/refs/heads/main/parry-obfuscated.lua'))()",
       "preview": "",
       "author": "kixielux"
+    },
+    {
+      "name": "Auto-Play - Funky Friday",
+      "description": "After the game starts, press F1 if you are in the left area, or press F2 if you are in the right area. To stop, press F3.\nF1 left zone\nF2 Rİght zone\nF3 Enable/Disable AutoPlay",
+      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Ozyx-x/Funky-Friday-Autoplay/refs/heads/main/funkyfridayautoplay.lua'))()",
+      "preview": "https://media.discordapp.net/attachments/1442479798097154148/1446898700684103721/image.png?ex=694ac0ec&is=69496f6c&hm=95a4f1c851c8bd433c548b3dc134df62dbc5774f8175711969eb3d22f2dcf0ef&=&format=webp&quality=lossless&width=801&height=398",
+      "author": "orb1i"
     }
   ]
 }
