@@ -50,7 +50,7 @@
       "author": "jurylol"
     },
     {
-      "name": "Movement Script (Counter Blox)",
+      "name": "Moon.lua",
       "description": "features: almost everything u would expect in a movement cheeet\nSupported Game:\nCounter Blox\nBlox Strike\nNEEDS UNSAFE LUA PROTECTION ON\nEXECUTE FIRST WHEN UR ALIVE ORHERWISE no work\nWILL NOT WORK ON DEFUSE DIVISION\nMENU KEYBIND IS  RIGHT SHIFT",
       "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/d0inks/moon.lua/refs/heads/main/main.lua'))()",
       "preview": "https://media.discordapp.net/attachments/1444143690087141506/1444143690716152002/Screenshot_2025-11-28_191351.png?ex=694a9e5e&is=69494cde&hm=e19f8ec12a16419e78b54ca4eb7973519048ae4f499f7e843e9f01c4fa35cec3&",
