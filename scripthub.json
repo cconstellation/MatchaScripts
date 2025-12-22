@@ -4,7 +4,7 @@
       "name": "Script Dumper",
       "description": "Dumps all local LuaContainers and packs them into a rbxlx file",
       "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ludiocel/PublicScripts/refs/heads/master/MatchaScriptDumper.lua'))()",
-      "preview": "https://media.discordapp.net/attachments/1428403275295752253/1452737388127195186/A5AF5387-1790-48D2-9150-4740AE0F5D81.png?ex=694ae69f&is=6949951f&hm=8b8021c061e81e745b23510661eb0f5006eba17afb3bfa5c9ebc3e9c5e88b39c&=&format=webp&quality=lossless&width=2536&height=950",
+      "preview": "https://cdn.discordapp.com/attachments/1295354339199815692/1452742339440283770/DiscordPTB_8CpJ4WgUt5.png?ex=694aeb3c&is=694999bc&hm=4d36d4f44f990ed24df3f5e8915fe36cac753566bd508158bc4f995e427fea07&",
       "author": "Vault & VainVerrater"
     },
     {
