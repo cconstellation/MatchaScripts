@@ -1,0 +1,28 @@
+{
+  "scripts": [
+    {
+      "name": "Infinite Yield",
+      "description": "A powerful, all-in-one admin command panel for most Roblox games.",
+      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
+      "preview": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/assets/banner.png"
+    },
+    {
+      "name": "Anti-AFK",
+      "description": "Prevents you from being kicked for being idle.",
+      "script_content": "while true do task.wait(5) game:GetService('VirtualUser'):CaptureController() game:GetService('VirtualUser'):ClickButton2(Vector2.new()) end",
+      "preview": ""
+    },
+    {
+      "name": "Simple ESP",
+      "description": "Highlights players through walls using a basic ESP implementation.",
+      "script_content": "loadstring(game:HttpGet('https://pastebin.com/raw/XXXXXXXX'))()",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/512px-Placeholder_view_vector.svg.png"
+    },
+    {
+      "name": "Fly Script",
+      "description": "Allows your character to fly using keyboard controls.",
+      "script_content": "loadstring(game:HttpGet('https://pastebin.com/raw/YYYYYYYY'))()",
+      "preview": "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
+    }
+  ]
+}
