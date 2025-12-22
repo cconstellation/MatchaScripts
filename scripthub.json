@@ -2,7 +2,7 @@
   "scripts": [
     {
       "name": "GH Hub",
-      "description": "The Most Powerfull Script Hub for matcha. join discord.gg/5eQhEPZ4yJ for suggestions or help",
+      "description": "The Most Powerfull Script Hub for matcha. join discord.gg/5eQhEPZ4yJ for suggestions or help\nSupported Games:\nBlade Ball\nCounter Blox\nDifuse Division\nArsenal\nForsaken \nDead Line\nFlee The Facility\nDead Rails\nNotoriety\nMurder Mystery 2\nZombie Attack\nDoors\nThe Final Stand 2\n99 Nights In The Forest\nCombat Wariors\nReflex aim trainer\nAim H4X",
       "script_content": "loadstring(game:HttpGet('https://pastebin.com/raw/9SgxAMpT'))()",
       "preview": "https://cdn.discordapp.com/attachments/1350833466962350121/1452683723668590754/3738EB29-43C9-4D19-999E-FE4CB1C56082.png?ex=694ab4a5&is=69496325&hm=146747d7c46a7e3ccdb3aaaa296f52d29562d6030c3cafd8d2e1de125a9fc779&",
       "author": "adur1011"
