@@ -1,0 +1,25 @@
+{
+  "scripts": [
+    {
+      "name": "GH Dev's Script Hub",
+      "description": "The Most Powerfull Script Hub for matcha. join discord.gg/5eQhEPZ4yJ for suggestions or help",
+      "script_content": "loadstring(game:HttpGet('https://pastebin.com/raw/9SgxAMpT'))()",
+      "preview": "https://cdn.discordapp.com/attachments/1350833466962350121/1452683723668590754/3738EB29-43C9-4D19-999E-FE4CB1C56082.png?ex=694ab4a5&is=69496325&hm=146747d7c46a7e3ccdb3aaaa296f52d29562d6030c3cafd8d2e1de125a9fc779&",
+      "author": "adur1011"
+    },
+    {
+      "name": "Celeste Hub",
+      "description": "The #1 Premium and Free Script Hub for Match4. Join Discord.gg/HCRTUjpmd4 for suggestions and help",
+      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/JohFgs/Celeste/refs/heads/main/Loader.lua'))()",
+      "preview": "https://files.catbox.moe/uhlcbj.jpg",
+ "author": "joh.fgs"
+    },
+    {
+      "name": "Skid Hub",
+      "description": "The Most Skidded Hub for Mаtcha\nSupported Games:\n- Ink Game\n- Deadly Delivery(EARLY ACCESS - PAID)",
+      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/RobloxTurboX/SkidHUB/refs/heads/main/SkidHubLoader.lua'))()",
+      "preview": "https://media.discordapp.net/attachments/1433477474561429657/1436390149914361886/image.png?ex=694a18d2&is=6948c752&hm=15011372d1e94413ecbd3b28eac66b6ec189a35ad8b4b0e02e867391fcfbb289&=&format=webp&quality=lossless&width=1291&height=904&",
+      "author": "The Bay Harbour Skidder - @ice_of_death"
+    }
+  ]
+}
