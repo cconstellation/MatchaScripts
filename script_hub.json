@@ -2,9 +2,9 @@
   "scripts": [
     {
       "name": "Infinite Yield",
-      "description": "A powerful, all-in-one admin command panel for most Roblox games.",
+      "description": "A powerful, all-in-one admin command panel for most Roblox games. TEST",
       "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()",
-      "preview": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/assets/banner.png"
+      "preview": "https://rscripts.net/_next/image?url=%2Fassets%2Fscripts%2FInfinite%20Yield.webp&w=3840&q=75"
     },
     {
       "name": "Anti-AFK",
