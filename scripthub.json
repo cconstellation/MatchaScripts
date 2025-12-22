@@ -83,6 +83,6 @@
       "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/MildilyAcidic/ranom-project/refs/heads/main/a.lua'))()",
       "preview": "https://i.imgur.com/RgSBRIC.png",
       "author": "jurylol & mildilyacidic"
-    },
+    }
   ]
 }
