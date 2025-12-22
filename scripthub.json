@@ -22,7 +22,7 @@
       "author": "The Bay Harbour Skidder - @ice_of_death"
     },
     {
-      "name": "MatchaHub",
+      "name": "Peter Hub",
       "description": "The first script hub for Motcha.\nSupported Games:\n- Murder Mystery 2\n- Build a Boat for Treasure\n- Grow a Garden\n- Defuse Division\n- Violence District\n- Foresaken\n- ER:LC (Emergency Response: Liberty County)\n- Criminality\n- Fallen Survival\n- Dead Rails\n- DayBreak\n- Lone Survival\n- Doors\n- The Wild West\n- Traitor Town\n- Dingus\n- Aftermath",
       "script_content": "loadstring(game:HttpGet('https://matchahub.5d79.live/main.lua'))()",
       "preview": "https://cdn.discordapp.com/attachments/1432058230892269693/1432058231286665276/image0.png?ex=694a2868&is=6948d6e8&hm=a8e3f72c64443c2f9fa10bde5651df88fd828e99880cbd5ec2e9bf3418234400&",
