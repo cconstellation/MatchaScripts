@@ -17,7 +17,7 @@
     {
       "name": "Celeste Hub",
       "description": "The #1 Premium and Free Script Hub for Matcha. Join Discord.gg/HCRTUjpmd4 for suggestions and help.\nSupported Games:\n- Counter Blox\n- Stands Awakening\n- BloxStrike\n- Murder Mystery 2 (EARLY ACCESS - BETA)",
-      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/JohFgs/Celeste/refs/heads/main/Loader.lua'))()",
+      "script_content": "loadstring(game:HttpGet('https://celeste-rgls.onrender.com/api/content/loader'))()",
       "preview": "https://files.catbox.moe/uhlcbj.jpg",
       "author": "joh.fgs"
     },
