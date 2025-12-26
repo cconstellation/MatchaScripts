@@ -83,6 +83,13 @@
       "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/MildilyAcidic/ranom-project/refs/heads/main/a.lua'))()",
       "preview": "https://i.imgur.com/RgSBRIC.png",
       "author": "jurylol & mildilyacidic"
+    },
+    {
+      "name": "Basketball Legends",
+      "description": "-Added Auto Guard\n-Fixed the Auto Green timing a bit\n(Reminder F1 to close/open menu)",
+      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/satireW/prison/refs/heads/main/obsfucatedbasketballlegends.lua'))()",
+      "preview": "",
+      "author": "v0wf"
     }
   ]
 }
