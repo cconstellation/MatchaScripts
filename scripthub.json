@@ -90,6 +90,13 @@
       "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/satireW/prison/refs/heads/main/obsfucatedbasketballlegends.lua'))()",
       "preview": "",
       "author": "v0wf"
+    },
+    {
+      "name": "Skid Mafia (Anime Battle Arena)",
+      "description": "-PLEASE TURN ON UNSAFE LUA TO EXECUTE THIS!\n- Nanami Auto-Perfect\n- Yuji Blackflash\n- Todo QTE\n- TS Law QTE\nSoon:\n[+] Tengen Auto Rhythm\n[+] UI Revamp",
+      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/likety/ABA/refs/heads/main/ABA.lua'))()",
+      "preview": "",
+      "author": "infinite.i & haru_ty & liketyy"
     }
   ]
 }
