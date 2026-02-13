@@ -16,9 +16,9 @@
     },
     {
       "name": "Celeste Hub",
-      "description": "The #1 Premium and Free Script Hub for Matcha. Join Discord.gg/HCRTUjpmd4 for suggestions and help.\nSupported Games:\n- Counter Blox\n- Stands Awakening\n- BloxStrike\n- Murder Mystery 2 (EARLY ACCESS - BETA)",
+      "description": "The #1 Premium and Free Script Hub for Matcha. Join Discord.gg/fwkSRrMnnA for suggestions and help.\n Supported Games:\n- Whos the Spy\n- Murder Mystery 2\n- Babft\n- BloxStrike\n- Counter Blox\n- Giga Mansion Tycoon\n- Operation One\n- Zombie Attack\n- A desrt\n- Flee The Facility\n- Wavelength\n- Stands-Awakening\n- SLAP\n- Shawarma Kiosk\n- Check Discord For All Games.",
       "script_content": "loadstring(game:HttpGet('https://celeste-rgls.onrender.com/api/content/loader'))()",
-      "preview": "https://files.catbox.moe/uhlcbj.jpg",
+      "preview": "https://files.catbox.moe/g1j5rx.png",
       "author": "joh.fgs"
     },
     {
