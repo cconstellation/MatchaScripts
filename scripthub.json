@@ -97,6 +97,13 @@
       "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/likety/ABA/refs/heads/main/ABA.lua'))()",
       "preview": "",
       "author": "infinite.i & haru_ty & liketyy"
+    },
+    {
+      "name": "Abyss Menu",
+      "description": "Make sure Unsafe LuaU execution is enabled!\nSimple menu for Abyss with features such as:\n- Auto Catch\n- Teleporting\n- Fish & Mutation ESP \n\n ^ More to come \nToggle with (Z)",
+      "script_content": "loadstring(game:HttpGet('https://raw.githubusercontent.com/bmxcre1/abyss-menu/refs/heads/main/main.luau'))()",
+      "preview": "",
+      "author": "bmxcre"
     }
   ]
 }
