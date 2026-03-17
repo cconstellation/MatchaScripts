@@ -104,6 +104,7 @@ sec:Keybind(id [, key [, type]]) -> KeybindWidget
 ```lua
 sec:Toggle("aim_on", "Aimbot")
 local kb = sec:Keybind("aim_kb", 0x46, "hold")  -- F, hold
+-- local kb = sec:Keybind("aim_kb", Enum.KeyCode.F, "hold")  -- F, hold
 
 kb:AddToHotkey("Aimbot", "aim_on")  -- show in hotkey list when aim_on is ON
 ```
