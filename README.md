@@ -1,4 +1,4 @@
-# Matcha — Scripting API (Temporary)
+# Matcha — Menu Binding (Temporary)
 
 Create custom menu tabs, widgets, and keybinds from Lua scripts.
 
