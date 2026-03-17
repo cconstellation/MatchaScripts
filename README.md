@@ -122,6 +122,7 @@ kb:AddToHotkey("Aimbot", "aim_on")  -- show in hotkey list when aim_on is ON
 | `:RemoveFromHotkey()` | Hide from overlay |
 
 **VK codes:** `0x01` LMB · `0x02` RMB · `0x04` MMB · `0x05` X1 · `0x06` X2 · `0x41`–`0x5A` A–Z
+
 **Enum keycodes:** `Enum.KeyCode.MouseButton1` LMB · `Enum.KeyCode.MouseButton2` RMB · `Enum.KeyCode.MouseButton3` MMB · `Enum.KeyCode.MouseButton4` X1 · `Enum.KeyCode.MouseButton5` X2 · `Enum.KeyCode.A`–`Enum.KeyCode.Z` A–Z
 
 ---
